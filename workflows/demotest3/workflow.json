@@ -16,8 +16,14 @@
       "type": "object",
       "hidden": false,
       "description": "First group",
-      "properties": [],
-      "required": []
+      "properties": [{
+        "id": "input1",
+        "title": "Input",
+        "type": "text",
+        "hidden": false,
+        "description": "Type something here"
+      }],
+      "required": ["input1"]
     }
   ]
 }
