@@ -1,9 +1,9 @@
 {
   "schema": "v2",
-  "id": "developerdecoy",
-  "title": "formbio/nf-testworkflow",
+  "id": "demotest3",
+  "title": "aalcott14/demo-workflow-3",
   "workflowVersion": "v0.1.0",
-  "displayName": "Developer Decoy",
+  "displayName": "Demo Test 3",
   "description": "A test workflow with no dependencies for developers to experiment with.",
   "type": "object",
   "categories": [
