@@ -19,7 +19,7 @@
       "properties": [{
         "id": "input1",
         "title": "Input",
-        "type": "text",
+        "type": "string",
         "hidden": false,
         "description": "Type something here"
       }],
